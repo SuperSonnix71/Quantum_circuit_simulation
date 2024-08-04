@@ -28,8 +28,7 @@ pip install qiskit matplotlib
 ## Usage
 
 Run the main script:
-python Qbits.py
-
+python quantum_circuits.py
 
 This will execute both the simple quantum circuit and the quantum teleportation circuit, display results, and save visualizations.
 
